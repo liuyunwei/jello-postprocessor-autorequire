@@ -1,0 +1,26 @@
+{
+  "name": "jello-postprocessor-autorequire",
+  "version": "1.0.0",
+  "description": "auto require .vm self",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyunwei/jello-postprocessor-autorequire.git"
+  },
+  "keywords": [
+    "jello",
+    "postprocessor",
+    "auto",
+    "require",
+    "vm"
+  ],
+  "author": "David Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyunwei/jello-postprocessor-autorequire/issues"
+  },
+  "homepage": "https://github.com/liuyunwei/jello-postprocessor-autorequire#readme"
+}
